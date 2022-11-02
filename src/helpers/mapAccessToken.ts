@@ -1,0 +1,1 @@
+export const mapAccessToken = 'pk.eyJ1IjoiZXJtaXRlIiwiYSI6ImNsOHNmeWZwZDB5em8zd3ByanlyODhkcjgifQ.sxpdyct42ymaM14aLpOZcg';
